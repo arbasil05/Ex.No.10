@@ -1,7 +1,7 @@
 # Ex.No.10  
 # Content Creation Using Prompt Patterns  
 
-## Date:
+## Date: 25-05-26
 ## Reg. No : 212223040002
 
 ---
